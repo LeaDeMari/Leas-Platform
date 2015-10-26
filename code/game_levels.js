@@ -120,7 +120,7 @@ var GAME_LEVELS = [
    "xxxxxxxxxxxxxxxxxxx     xxxxx!!!!!!!!!!x             x!!!!!!!!x                            xxxxxxxxxxxxxxxxxxx",
    "xxxxxxxxxxxxxxxxxxx     xxxxx!!!!!!!!!!x             x!!!!!!!!x      xxxxxxxxxxxxxxxxx                       x",
    "                        xxxxxxxxxxxxxxxx     xxx     xxxxxxxxxx      xx!!!!!!!!xxo                           x",
-   "                        xxxxx                                       xxx!!!!!!!!xx         xxxxxxxxxxxxxx    x",
+   "                        xxxxx                                       xxx!!!!!!!!xx         xxxxxxxxxxxxxx     x",
    " @                     xxxxxx  o                                     xx!!!!!!!!xx          xxxxxxxxxxxxxx    x",
    "xxxxxxxxxxxxxxxxxxx                       x         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx        xxxxxxxxxxxxxx    x",
    "xxxxxxxxxxxxxxxxxxx                                 xx  o                                 xxxxxxxxxxxxxxx    x",
