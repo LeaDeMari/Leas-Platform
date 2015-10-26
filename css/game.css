@@ -19,6 +19,11 @@
   position: relative;
 }
 
+.audio {
+	display: none;
+	
+}
+
 .lost .player {
    background: url("http://www.lucasforums.com/image.php?u=77764&dateline=1046785495");
 }
