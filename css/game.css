@@ -1,0 +1,30 @@
+.background    { background: url("http://i237.photobucket.com/albums/ff275/gagirl1964/Backgrounds/MySpace-Background.gif");
+                 table-layout: fixed;
+                 border-spacing: 0;   }
+.background td { padding: 0;          }
+.lava          { background: url("http://www.pixeljoint.com/files/icons/full/waterhmm2.gif"); }
+.wall          { background: url("http://i.imgur.com/kS4T1.png");   }
+
+.actor  { position: absolute;  }
+.coin   { background: url("http://1.bp.blogspot.com/-cPP0lTFhECI/VR1jmPPK94I/AAAAAAAAQAY/5rOojsxAS34/s1600/Coin%2B8.gif"); }
+.heart   { background: url("http://a.deviantart.net/avatars/p/r/princessandthebird55.gif?2"); }
+.player { background: url("http://www.lucasforums.com/image.php?u=77764&dateline=1046785495"); } 
+.enemy { background: url("http://img-cache.cdn.gaiaonline.com/5ffba62bbcd7cc3c9c09cc00a4e644fe/http://i144.photobucket.com/albums/r164/Pale_Rabbit/Bunny%20Images/GigglingBunny.gif"); }
+.siron { background: url("http://img525.imageshack.us/img525/1144/rabbitwalk1mightyvinceptw1.gif"); }
+
+.game {
+  overflow: hidden;
+  max-width: 600px;
+  max-height: 450px;
+  position: relative;
+}
+
+.lost .player {
+   background: url("http://www.lucasforums.com/image.php?u=77764&dateline=1046785495");
+}
+.won .player {
+  background: url("http://www.lucasforums.com/image.php?u=77764&dateline=1046785495");
+  -webkit-box-shadow: 0px 0px 20px whitesmoke;
+  -moz-box-shadow: 0px 0px 20px whitesmoke;
+  box-shadow: 0px 0px 20px whitesmoke;
+}
